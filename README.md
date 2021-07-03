@@ -5,9 +5,11 @@
 -->
 [![NPM version][npm-img]][npm-url]
 
-this repo just
-fork [overlookmotel/sequelize-hierarchy pr223](https://github.com/overlookmotel/sequelize-hierarchy/pull/223), not
+This repo just fork [overlookmotel/sequelize-hierarchy pr223](https://github.com/overlookmotel/sequelize-hierarchy/pull/223), not
 maintained, and risky to use in a production environment.
+
+If you need to modify the code, please keep the lib code format, some `SQL` may be corrupted if you format the code.
+
 
 
 ## 📦 Installation
