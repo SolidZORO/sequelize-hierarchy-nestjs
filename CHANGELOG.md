@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.99.3](https://github.com/solidzoro/sequelize-hierarchy-nestjs/compare/v2.99.2...v2.99.3) (2021-07-03)
+
+
+### Bug Fixes
+
+* restore lib code formart ([522e440](https://github.com/solidzoro/sequelize-hierarchy-nestjs/commit/522e440c3517d3453df4ab6d72a7b63a5862cfc6))
+
 ### [2.99.2](https://github.com/solidzoro/sequelize-hierarchy-nestjs/compare/v2.99.1...v2.99.2) (2021-07-03)
 
 
