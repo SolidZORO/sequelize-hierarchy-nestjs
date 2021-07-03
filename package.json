@@ -1,6 +1,6 @@
 {
   "name": "sequelize-hierarchy-nestjs",
-  "version": "2.99.1",
+  "version": "2.99.2",
   "description": "Nested hierarchies for Sequelize v6",
   "main": "index.js",
   "author": "Jason Feng <solidzoro@live.com>",

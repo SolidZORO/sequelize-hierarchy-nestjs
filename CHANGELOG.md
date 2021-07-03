@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.99.2](https://github.com/solidzoro/sequelize-hierarchy-nestjs/compare/v2.99.1...v2.99.2) (2021-07-03)
+
+
+### Features
+
+* add a docs ([bc2a202](https://github.com/solidzoro/sequelize-hierarchy-nestjs/commit/bc2a202c180a42544c231528cbae7cb39d04f6cc))
+
 ### [2.99.1](https://github.com/solidzoro/sequelize-hierarchy-nestjs/compare/v2.99.0...v2.99.1) (2021-07-03)
 
 ## [2.99.0](https://github.com/solidzoro/sequelize-hierarchy-nestjs/compare/v2.0.4...v2.99.0) (2021-07-03)
