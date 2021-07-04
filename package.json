@@ -23,10 +23,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/solidzoro/sequelize-hierarchy-nestjs.git"
+    "url": "https://github.com/SolidZORO/sequelize-hierarchy-nestjs.git"
   },
   "bugs": {
-    "url": "https://github.com/solidzoro/sequelize-hierarchy-nestjs/issues"
+    "url": "https://github.com/SolidZORO/sequelize-hierarchy-nestjs/issues"
   },
   "publishConfig": {
     "access": "public",
